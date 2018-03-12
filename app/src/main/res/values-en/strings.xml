@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taller Zapatos ZXY</string>
+    <string name="company_name">ZXY Store</string>
+    <string name="blank_quantity">Please, type the quantity</string>
+    <string name="quantity_greater_than_zero">Quantity should be greater than zero</string>
+    <string name="quantity_label">Quantity</string>
+    <string name="gender_label">Gender</string>
+    <string name="shoe_type_label">Type</string>
+    <string name="brand_label">Brand</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+    <string name="total_price">Total Price</string>
+    <string name="men">Men</string>
+    <string name="women">Women</string>
+    <string name="classic">Classic</string>
+    <string name="sneaker">Sneaker</string>
+    <string name="nike">Nike</string>
+    <string name="adidas">Adidas</string>
+    <string name="puma">Puma</string>
+</resources>
