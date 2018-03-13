@@ -8,15 +8,15 @@
     <string name="quantity_greater_than_zero">La cantidad debe ser mayor a cero</string>
     <string name="quantity_label">Cantidad</string>
     <string name="gender_label">Genero</string>
-    <string name="shoe_type_label">Tipo</string>
+    <string name="shoe_type_label">Tipo de Zapato</string>
     <string name="brand_label">Marca</string>
     <string name="calculate">Calcular</string>
     <string name="clear">Limpiar</string>
     <string name="total_price">Precio Total:</string>
     <string name="result" />
 
-    <string name="men">Hombre</string>
-    <string name="women">Mujer</string>
+    <string name="men">Hombres</string>
+    <string name="women">Mujeres</string>
 
     <string name="classic">Clasico</string>
     <string name="sneaker">Zapatilla</string>

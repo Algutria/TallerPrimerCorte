@@ -6,7 +6,7 @@
     <string name="quantity_greater_than_zero">Quantity should be greater than zero</string>
     <string name="quantity_label">Quantity</string>
     <string name="gender_label">Gender</string>
-    <string name="shoe_type_label">Type</string>
+    <string name="shoe_type_label">Shoe Type</string>
     <string name="brand_label">Brand</string>
     <string name="calculate">Calculate</string>
     <string name="clear">Clear</string>
